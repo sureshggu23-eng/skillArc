@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SkillArc - Free E-Learning Platform
 
 A complete e-learning website: student sign-up/login, free course enrolment, lessons with progress tracking,
@@ -51,3 +52,6 @@ uploads/         uploaded course images
 ## Putting it online
 Run `server.py` on any Linux VPS / Render / Railway / PythonAnywhere-style host, put it behind HTTPS (nginx or Caddy),
 and set a strong admin password. Back up the `data/` and `uploads/` folders regularly.
+=======
+# skillArc
+>>>>>>> 07c0b206f11ada9e4a681eb11d8611400f2a7f57
